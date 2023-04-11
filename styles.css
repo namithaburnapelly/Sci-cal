@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+form {
+    padding-left: 40%;
+    padding-top: 7.5%;
+}
+
+.name {
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.cal {
+    width: 300px;
+    height: 425px;
+    background-color: #c0c0c0;
+    box-shadow: 2px 2px 0px 8px #666;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 0.5%;
+    padding-right: 1%;
+}
+
+#display {
+    width: 269px;
+    height: 40px;
+    text-align: right;
+    font-size: 26px;
+    box-shadow: 2px 2px 0px 0px white;
+    border-color: rgb(227, 224, 224);
+}
+
+.btn-top {
+    font-size: 18px;
+    margin: auto;
+    width: 50px;
+    height: 30px;
+    align-content: center;
+    color: white;
+    background-color: #22aa44;
+    box-shadow: 2px 2px 0px 0px #22aa44;
+    border-color: #22aa44;
+}
+
+.btn-num {
+    font-size: 18px;
+    margin: auto;
+    width: 50px;
+    height: 30px;
+    align-content: center;
+    background-color: rgb(71, 70, 70);
+    color: white;
+    box-shadow: 2px 2px 0px 0px rgb(71, 70, 70);
+    border-color: rgb(71, 70, 70);
+}
+
+.btn-op {
+    font-size: 18px;
+    margin: auto;
+    width: 50px;
+    height: 30px;
+    align-content: center;
+    background-color: #27f;
+    color: white;
+    box-shadow: 2px 2px 0px 0px #27f;
+    border-color: #27f;
+}
+
+.btn-math {
+    font-size: 18px;
+    margin: auto;
+    width: 50px;
+    height: 30px;
+    align-content: center;
+    background-color: rgb(250, 172, 28);
+    color: white;
+    box-shadow: 2px 2px 0px 0px rgb(250, 172, 28);
+    border-color: rgb(250, 172, 28);
+}
